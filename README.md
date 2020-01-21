@@ -1,2 +1,17 @@
-# semana-omnistack-10
-Projeto desenvolvido durante a Semana Omnistack 10.0
+# DevRadar
+Um projeto resultante da semana Omnistack 10.0
+
+# Objetivo
+Criar uma aplicação para encontrar desenvolvedores, conforme
+
+# Tecnologias Utilizadas
+
+* Front-End: Node.js
+* Back-End:  ReactJS
+* Mobile: React-Native + Expo
+
+# Edits
+
+* Back-end: Funções de alteração ou remoção de desenvolvedores
+* Front-end: Botão para executar a função de remoção
+
