@@ -2,7 +2,7 @@
 Um projeto resultante da semana Omnistack 10.0
 
 # Objetivo
-Criar uma aplicação para encontrar desenvolvedores, conforme
+Criar uma aplicação para encontrar desenvolvedores, conforme técnologias que ele trabalha
 
 # Tecnologias Utilizadas
 
